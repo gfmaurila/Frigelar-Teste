@@ -1,0 +1,16 @@
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\2.0 - Application\Application.DTO\bin\Debug\netcoreapp3.1\Application.DTO.deps.json
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\2.0 - Application\Application.DTO\bin\Debug\netcoreapp3.1\Application.DTO.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\2.0 - Application\Application.DTO\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.AssemblyInfoInputs.cache
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.AssemblyInfo.cs
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.csprojAssemblyReference.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\2.0 - Application\Application.DTO\bin\Debug\netcoreapp3.1\Application.DTO.deps.json
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\2.0 - Application\Application.DTO\bin\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\2.0 - Application\Application.DTO\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.AssemblyInfoInputs.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.AssemblyInfo.cs
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.csproj.CoreCompileInputs.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.pdb

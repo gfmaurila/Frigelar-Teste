@@ -1,0 +1,609 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.IOC\\Infrastruture.CrossCutting.IOC.csproj": {}
+  },
+  "projects": {
+    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj",
+        "projectName": "Application.DTO",
+        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj"
+              },
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj"
+              },
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\Infrastruture.CrossCutting.Adapter.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\Infrastruture.CrossCutting.Adapter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj",
+        "projectName": "Domain.Core",
+        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj"
+              },
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Services\\Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Services\\Domain.Services.csproj",
+        "projectName": "Domain.Services",
+        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Services\\Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj",
+        "projectName": "Infrastructure.Data",
+        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj",
+        "projectName": "Infrastruture.Repository",
+        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj"
+              },
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\Infrastruture.CrossCutting.Adapter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\Infrastruture.CrossCutting.Adapter.csproj",
+        "projectName": "Infrastruture.CrossCutting.Adapter",
+        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\Infrastruture.CrossCutting.Adapter.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj"
+              },
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper.Extensions.NetCore": {
+              "target": "Package",
+              "version": "[3.0.5, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.IOC\\Infrastruture.CrossCutting.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.IOC\\Infrastruture.CrossCutting.IOC.csproj",
+        "projectName": "Infrastruture.CrossCutting.IOC",
+        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.IOC\\Infrastruture.CrossCutting.IOC.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application\\Application.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application\\Application.csproj"
+              },
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Services\\Domain.Services.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Services\\Domain.Services.csproj"
+              },
+              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj": {
+                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,179 @@
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.deps.json
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csprojAssemblyReference.cache
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfoInputs.cache
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfo.cs
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csproj.CopyComplete
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.deps.json
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csprojAssemblyReference.cache
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfoInputs.cache
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfo.cs
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csproj.CopyComplete
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.deps.json
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csprojAssemblyReference.cache
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfoInputs.cache
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfo.cs
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csproj.CopyComplete
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.deps.json
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csprojAssemblyReference.cache
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfoInputs.cache
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfo.cs
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csproj.CoreCompileInputs.cache
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csproj.CopyComplete
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.deps.json
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csprojAssemblyReference.cache
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfoInputs.cache
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfo.cs
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csproj.CoreCompileInputs.cache
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csproj.CopyComplete
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.deps.json
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csprojAssemblyReference.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfoInputs.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfo.cs
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csproj.CoreCompileInputs.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csproj.CopyComplete
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.deps.json
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Services.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csprojAssemblyReference.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfoInputs.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.AssemblyInfo.cs
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csproj.CoreCompileInputs.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.csproj.CopyComplete
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.IOC.pdb

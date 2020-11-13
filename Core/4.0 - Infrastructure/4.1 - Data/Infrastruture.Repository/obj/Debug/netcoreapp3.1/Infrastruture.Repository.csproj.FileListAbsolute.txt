@@ -1,0 +1,123 @@
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.deps.json
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfoInputs.cache
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfo.cs
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csprojAssemblyReference.cache
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csproj.CopyComplete
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.dll
+C:\dev\Arquiteturas-DDD\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.deps.json
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csprojAssemblyReference.cache
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfoInputs.cache
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfo.cs
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csproj.CopyComplete
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+C:\dev\Arquiteturas\aspnet_core_3_2020\demo\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.deps.json
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csprojAssemblyReference.cache
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfoInputs.cache
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfo.cs
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csproj.CopyComplete
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+C:\dev\Arquiteturas\gfmaurila-aspnet-core-3\MySQL-teste\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.deps.json
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csprojAssemblyReference.cache
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfoInputs.cache
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfo.cs
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csproj.CoreCompileInputs.cache
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csproj.CopyComplete
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Demo-asp.core-3.0-DDD-MySQL-2019\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.deps.json
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csprojAssemblyReference.cache
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfoInputs.cache
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfo.cs
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csproj.CoreCompileInputs.cache
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csproj.CopyComplete
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+D:\dotnet\Tests\Grace Consulting - Logstore\Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.deps.json
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csprojAssemblyReference.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfoInputs.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfo.cs
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csproj.CoreCompileInputs.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csproj.CopyComplete
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Teste-para-Desenvolvedor-S-nior-Logstore\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.deps.json
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csprojAssemblyReference.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfoInputs.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.AssemblyInfo.cs
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csproj.CoreCompileInputs.cache
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.csproj.CopyComplete
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.dll
+D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.1 - Data\Infrastruture.Repository\obj\Debug\netcoreapp3.1\Infrastruture.Repository.pdb
