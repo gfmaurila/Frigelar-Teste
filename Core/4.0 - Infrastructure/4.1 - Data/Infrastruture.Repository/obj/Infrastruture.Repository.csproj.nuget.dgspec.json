@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj": {}
+    "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj": {}
   },
   "projects": {
-    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj": {
+    "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj",
+        "projectUniqueName": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj",
         "projectName": "Application.DTO",
-        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj",
+        "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj",
         "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\obj\\",
+        "outputPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\2.0 - Application\\Application.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -56,26 +58,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj": {
+    "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj",
+        "projectUniqueName": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj",
         "projectName": "Domain.Core",
-        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj",
+        "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj",
         "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\obj\\",
+        "outputPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -86,12 +88,13 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj": {
-                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj"
+              "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj"
               },
-              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj"
+              "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain\\Domain.csproj"
               }
             }
           }
@@ -104,6 +107,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -119,26 +123,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj": {
+    "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj",
+        "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\obj\\",
+        "outputPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -149,6 +153,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -160,6 +165,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -175,26 +181,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+    "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj",
+        "projectUniqueName": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj",
         "projectName": "Infrastructure.Data",
-        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj",
+        "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj",
         "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\obj\\",
+        "outputPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -205,9 +211,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj"
+              "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain\\Domain.csproj"
               }
             }
           }
@@ -220,6 +227,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -259,26 +267,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj": {
+    "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj",
+        "projectUniqueName": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj",
         "projectName": "Infrastruture.Repository",
-        "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj",
+        "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj",
         "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\obj\\",
+        "outputPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -289,12 +297,13 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj": {
-                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj"
+              "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain.Core\\Domain.Core.csproj"
               },
-              "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj": {
-                "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj"
+              "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+                "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastructure.Data\\Infrastructure.Data.csproj"
               }
             }
           }
@@ -307,6 +316,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -322,7 +332,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

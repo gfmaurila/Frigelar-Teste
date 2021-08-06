@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FSlWrkJ+QNIr1Ck1kwXBGkTlf2d/hWr2f0k6L75Vqlczj+qqE3aKR9b0usTByzvQE4xyP/mO1DhO7ZQBti7sZQ==",
+  "dgSpecHash": "0kyMv2zrecRDFMh/ll5Z2G2UiNtmh4JJDqF51xLFJUU54B+CgiX8ByUMN/zvWt4u4ruiSlbPCtlc2QXfWQRYOA==",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj",
+  "projectFilePath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.1 - Data\\Infrastruture.Repository\\Infrastruture.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gfmau\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\gfmau\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -29,7 +29,7 @@
     "C:\\Users\\gfmau\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\gfmau\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\gfmau\\.nuget\\packages\\mysqlconnector\\0.61.0\\mysqlconnector.0.61.0.nupkg.sha512",
-    "D:\\Microsoft\\Xamarin\\NuGet\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\gfmau\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\3.1.1\\pomelo.entityframeworkcore.mysql.3.1.1.nupkg.sha512",
     "C:\\Users\\gfmau\\.nuget\\packages\\pomelo.jsonobject\\2.2.1\\pomelo.jsonobject.2.2.1.nupkg.sha512",
     "C:\\Users\\gfmau\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lQvHXiR6bM77ui/ALccaG7KYakCQVxJUOJn3QOw9JZO0TNBTMDFa1U1yacaRcDPF9Ow35J6uoCtElwkvnRIdGQ==",
+  "dgSpecHash": "/DnF4QH+jenp7vng6RQoCakKqos8wq4uCjx3La1wmaRizjS7uIYUAY26umrQjODyiqsdj2kN7sKc2OvtKLpwqw==",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\Infrastruture.CrossCutting.Adapter.csproj",
+  "projectFilePath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\Infrastruture.CrossCutting.Adapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gfmau\\.nuget\\packages\\autofac\\4.9.4\\autofac.4.9.4.nupkg.sha512",
     "C:\\Users\\gfmau\\.nuget\\packages\\autofac.extensions.dependencyinjection\\5.0.1\\autofac.extensions.dependencyinjection.5.0.1.nupkg.sha512",

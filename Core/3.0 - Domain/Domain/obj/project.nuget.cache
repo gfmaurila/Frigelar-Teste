@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MwgqCAkp6bTOYyROmcrKHcLShY/o0UbSWuWR8cdOtvs61e+M8qZSk1b615WmEailZpuWRG/oVtiRQDnikIgy3Q==",
+  "dgSpecHash": "sXDLpC/DWqa+vf9nQvQrAc5h+m9rCOBnW8bb3aFebDpgfddqp4w593J8kvd4GJdga6mWW9+h/LWdkw5V2SWUiw==",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

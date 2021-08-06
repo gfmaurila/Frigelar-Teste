@@ -93,3 +93,17 @@ D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossC
 D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.csproj.CopyComplete
 D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.dll
 D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.pdb
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.deps.json
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.dll
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.pdb
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Domain.dll
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.csproj.AssemblyReference.cache
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.AssemblyInfoInputs.cache
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.AssemblyInfo.cs
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.csproj.CoreCompileInputs.cache
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.csproj.CopyComplete
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.dll
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\4.0 - Infrastructure\4.2 - CrossCutting\Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Infrastruture.CrossCutting.Adapter.pdb

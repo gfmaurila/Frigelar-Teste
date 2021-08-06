@@ -54,3 +54,11 @@ D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\3.0 - Domain\Domain\obj\Debug\net
 D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\3.0 - Domain\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\3.0 - Domain\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\3.0 - Domain\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

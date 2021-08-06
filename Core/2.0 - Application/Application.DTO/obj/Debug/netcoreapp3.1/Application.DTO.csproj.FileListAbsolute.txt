@@ -14,3 +14,11 @@ D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\2.0 - Application\Application.DTO
 D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.csproj.CoreCompileInputs.cache
 D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.dll
 D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\2.0 - Application\Application.DTO\bin\Debug\netcoreapp3.1\Application.DTO.deps.json
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\2.0 - Application\Application.DTO\bin\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\2.0 - Application\Application.DTO\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.AssemblyInfoInputs.cache
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.AssemblyInfo.cs
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.csproj.CoreCompileInputs.cache
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\2.0 - Application\Application.DTO\obj\Debug\netcoreapp3.1\Application.DTO.pdb

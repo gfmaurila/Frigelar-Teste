@@ -1261,24 +1261,24 @@
   },
   "packageFolders": {
     "C:\\Users\\gfmau\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\Infrastruture.CrossCutting.Adapter.csproj",
+      "projectUniqueName": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\Infrastruture.CrossCutting.Adapter.csproj",
       "projectName": "Infrastruture.CrossCutting.Adapter",
-      "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\Infrastruture.CrossCutting.Adapter.csproj",
+      "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\Infrastruture.CrossCutting.Adapter.csproj",
       "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\obj\\",
+      "outputPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\4.0 - Infrastructure\\4.2 - CrossCutting\\Infrastruture.CrossCutting.Adapter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -1289,12 +1289,13 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj": {
-              "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj"
+            "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj": {
+              "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\2.0 - Application\\Application.DTO\\Application.DTO.csproj"
             },
-            "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\3.0 - Domain\\Domain\\Domain.csproj"
+            "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\3.0 - Domain\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1307,6 +1308,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Dapper.Extensions.NetCore": {
             "target": "Package",
@@ -1336,7 +1338,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -93,3 +93,17 @@ D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\3.0 - Domain\Domain.Core\obj\Debu
 D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\3.0 - Domain\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.csproj.CopyComplete
 D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\3.0 - Domain\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.dll
 D:\dotnet\Tests\CWI-GX2-Frigelar\Frigelar\Core\3.0 - Domain\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.pdb
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\bin\Debug\netcoreapp3.1\Domain.Core.deps.json
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\bin\Debug\netcoreapp3.1\Domain.Core.dll
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\bin\Debug\netcoreapp3.1\Application.DTO.dll
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\bin\Debug\netcoreapp3.1\Domain.dll
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\bin\Debug\netcoreapp3.1\Application.DTO.pdb
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.csproj.AssemblyReference.cache
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.AssemblyInfoInputs.cache
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.AssemblyInfo.cs
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.csproj.CoreCompileInputs.cache
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.csproj.CopyComplete
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.dll
+D:\dev\DotNet\core\demo\hexagonal\Frigelar-Teste\Core\3.0 - Domain\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.pdb

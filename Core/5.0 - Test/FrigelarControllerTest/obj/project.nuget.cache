@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FIJCS0Utc/dZswY+kp0uZSTD++QF/1ebpWJcu2NRyYuKxoExBlHbe/k0y5cWAuusYOPDmrKnDlhUEz7zSyfzUg==",
+  "dgSpecHash": "oTQO6ZPzRFk6WrXKVTnKQpC13a4rOa0Q3Y8iI8mCbMYGGr6HfqThFF1ozsB97LpNWFOB8nAkZQhNXi8BxyGNLQ==",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\5.0 - Test\\FrigelarControllerTest\\FrigelarControllerTest.csproj",
+  "projectFilePath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\5.0 - Test\\FrigelarControllerTest\\FrigelarControllerTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gfmau\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512",
     "C:\\Users\\gfmau\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

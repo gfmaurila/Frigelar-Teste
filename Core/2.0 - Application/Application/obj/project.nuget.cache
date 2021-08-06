@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q2CeIsWW+9bWJT/KXoORMVVUbMgG7ItEvRrQKj8d9PVWYUA2krwFFVTzmIbewXDI8X5AYr2EewN7/XhlVK+qlA==",
+  "dgSpecHash": "l3charqxeroG/0VqgBdMk98Br7YE+dW3xGcgPUD/E7O6d1G42UjnTvuUeCe1dGHHA+RQEPksylsOxTqGye4/lA==",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\Tests\\CWI-GX2-Frigelar\\Frigelar\\Core\\2.0 - Application\\Application\\Application.csproj",
+  "projectFilePath": "D:\\dev\\DotNet\\core\\demo\\hexagonal\\Frigelar-Teste\\Core\\2.0 - Application\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gfmau\\.nuget\\packages\\autofac\\4.9.4\\autofac.4.9.4.nupkg.sha512",
     "C:\\Users\\gfmau\\.nuget\\packages\\autofac.extensions.dependencyinjection\\5.0.1\\autofac.extensions.dependencyinjection.5.0.1.nupkg.sha512",

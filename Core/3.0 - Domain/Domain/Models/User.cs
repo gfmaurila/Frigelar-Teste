@@ -1,5 +1,8 @@
-﻿namespace Domain.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Domain.Models
 {
+    [Table("User")]
     public class User : Base
     {
         public string Name { get; set; }
